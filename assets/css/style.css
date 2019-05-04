@@ -1,0 +1,209 @@
+.container {
+
+    color: #777777;
+
+    background: #ffffff;
+
+    width: 960px;
+
+    margin-top: 110px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    height: 600px;
+
+}
+
+
+#BioImg {
+
+    float: left;
+
+    padding: 10px;
+
+}
+
+
+#vertical-line {
+
+    border-left: 2px solid #cccccc;
+
+    border-right: 1px solid #cccccc;
+
+    padding-left: 10px;
+
+    padding-right: 10px;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+}
+
+.TopHeader {
+
+    position: fixed;
+
+    top: 0px;
+
+    left: 0px;
+
+    width: 960px;
+
+    background: #ffffff;
+
+    height: 100px;
+
+    float: left;
+
+    border-bottom: 2px solid #cccccc;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+.nameTag {
+
+    width: 960px;
+
+    height: 100px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+.copyright {
+
+    width: 960px;
+
+    height: 85px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    color: #cccccc;
+
+    line-height: 85px;
+
+}
+
+
+#footer {
+
+    position: fixed;
+
+    width: 960px;
+
+    height: 100px;
+    
+    bottom: 0px;
+
+    margin: 0px;
+
+    text-align: center;
+
+    background: #666666;
+
+    border-top: 2px solid #4aaaa5;
+
+}
+
+
+#name {
+
+    position: fixed;
+
+    text-align: center;
+
+    background: #4aaaa5;
+
+    width: 220px;
+
+    height: 100px;
+
+    margin-top: 0px;
+
+    color: #ffffff;
+
+    line-height: 100px;
+
+}
+
+
+.link {
+
+    float: right;
+
+    line-height: 65px;
+
+}
+
+
+.menuLink {
+
+    color: #777777;
+
+}
+
+
+a {
+
+    border: 0;
+
+    text-decoration: none;
+
+}
+
+
+#contact {
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+}
+
+
+input {
+
+    width: 500px;
+
+    padding: 5px;
+
+    margin-bottom: 10px;
+
+    margin-top: 5px;
+
+}
+
+
+#message {
+
+    height: 120px;
+
+}
+
+
+#submit {
+
+    width: 120px;
+
+    height: 50px;
+
+    background:lightseagreen;
+
+    border: 0px;
+
+    color: white;
+
+
+
+}
+
